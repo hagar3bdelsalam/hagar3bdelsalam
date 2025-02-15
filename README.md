@@ -20,7 +20,6 @@
 
 
 ### Languages :
-
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -44,32 +43,22 @@
 <br/>
 
 ### Projects and Dev Stuffs:
-<!--
+
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hagar3bdelsalam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=AF1740&text_color=B3B0B0&icon_color=E4E48F&bg_color=171718" />
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagar3bdelsalam&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=AF1740&text_color=B3B0B0&icon_color=E4E48F&bg_color=171718"/>-->
 </details>
 
 <details>
   <summary><b>☄ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hagar3bdelsalam&hide_border=true&title_color=AF1740&text_color=B3B0B0&bg_color=171718&v=2" />
+
+
 </details>
 
-<details>
-  <br />
-  <summary><b>⚙ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details>  -->
+
