@@ -1,21 +1,15 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Hagar+Abdelsalam....;Glad+to+meet+you!+😊&center=true&size=30&color=AF1740&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Hagar+Abdelsalam....;Glad+to+meet+you!+😊&center=true&size=30&color=8BE9FD&width=500">
   </a>
 </h1>
 
 
 
 ### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/hagar-abdelsalam-818932282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="https://cdn.simpleicons.org/linkedin"/>
-  </a>
-  &nbsp;&nbsp; <!-- Add spaces -->
-  <a href="https://discord.com/users/hagar7992">
-    <img alt="Discord" title="Discord" height="30" width="30" src="https://cdn.simpleicons.org/discord"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/hagar-abdelsalam-818932282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:ha2ar3bdelsalam@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 
 
 
@@ -26,9 +20,12 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Cpp" width="26px" src="img/cplusplus-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="img/csharp-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NumPy" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 
-<!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> -->
-<br/>
+<br/><br/>
 
 ### Tools :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -40,25 +37,15 @@
 <img align="left" alt="Microsoft Sql Server" width="26px" src="img/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="img/linux-original.svg" style="padding-right:10px;" />
 
-<br/>
+<br/><br/>
 
 ### Projects and Dev Stuffs:
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hagar3bdelsalam&show_icons=true&hide_border=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hagar3bdelsalam&hide_border=true&theme=dracula"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagar3bdelsalam&hide_border=true&theme=dracula" /> -->
+</div>
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hagar3bdelsalam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=AF1740&text_color=B3B0B0&icon_color=E4E48F&bg_color=171718" />
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagar3bdelsalam&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=AF1740&text_color=B3B0B0&icon_color=E4E48F&bg_color=171718"/>-->
-</details>
-
-<details>
-  <summary><b>☄ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hagar3bdelsalam&hide_border=true&title_color=AF1740&text_color=B3B0B0&bg_color=171718&v=2" />
-
-
-</details>
 
 
