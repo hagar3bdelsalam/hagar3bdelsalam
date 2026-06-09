@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Hagar+Abdelsalam....;Glad+to+meet+you!+😊&center=true&size=30&color=8BE9FD&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Hagar+Abdelsalam....;&center=true&size=30&color=afd7be&width=500">
   </a>
 </h1>
 
@@ -22,8 +22,8 @@
 <img align="left" alt="C#" width="26px" src="img/csharp-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NumPy" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NumPy" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" style="padding-right:10px;" /> -->
 
 <br/><br/>
 
