@@ -5,7 +5,7 @@
 </h1> -->
 
 <p align="center">
-  <img src="https://github-terminal-readme.nexflare.com.br/api/stats/hagar3bdelsalam?theme=githubdark&customstack=true&stacks=c,cplusplus" width="300" />
+  <img src="https://github-terminal-readme.nexflare.com.br/api/stats/hagar3bdelsalam?theme=githubdark&customstack=true&stacks=c,cplusplus" />
   <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300" /> -->
   <!-- <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="300" /> -->
 </p>
